@@ -1,22 +1,6 @@
 ![互联网 Java 秒杀系统设计与架构](https://raw.githubusercontent.com/qiurunze123/imageall/master/miaoshashejitu.png)
 
-> 邮箱 : [QiuRunZe_key@163.com](QiuRunZe_key@163.com)
-
 > Github : [https://github.com/qiurunze123](https://github.com/qiurunze123)
-
-> QQ : [3341386488](3341386488)
-
-> QQ群1(秒杀架构一群) :
-
-![整体流程](https://raw.githubusercontent.com/qiurunze123/imageall/master/qq.png)
-
-> QQ群2(秒杀架构二群) :
-
-![整体流程](https://raw.githubusercontent.com/qiurunze123/imageall/master/miaosha22.png)
-
-> QQ群3(多线程交流群 三高系统 -- 并发框架) :
-
-![整体流程](https://raw.githubusercontent.com/qiurunze123/imageall/master/高并发.png)
 
 [![Travis](https://img.shields.io/badge/language-Java-yellow.svg)](https://github.com/qiurunze123)
 高并发大流量如何进行秒杀架构，我对这部分知识做了一个系统的整理，写了一套系统。本GitHub还有许多其他的知识，随时欢迎探讨与骚扰！本文还在更新如果文章出现瑕疵请及时与我联系！
